@@ -1,3 +1,6 @@
 [submodule "docs/jekyllbook"]
 	path = docs/jekyllbook
-	url = https://github.com/ebetica/jekyllbook
+	url = https://github.com/ebetica/jekyllbook.git
+[submodule "jekyllbook"]
+	path = jekyllbook
+	url = https://github.com/ebetica/jekyllbook.git

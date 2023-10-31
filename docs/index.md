@@ -29,7 +29,7 @@ Most of the lectures, labs, and notebooks are avalible in github and canvas
 **Legend**: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
 
-### Module 1: Introduction
+### Module 1: Introduction to Health Informatics
 
  * History and resources [🎥](https://youtu.be/mTtDfKgLm54) [🖥](https://drive.google.com/file/d/1vVNUye-1JNJnqP4A0704sjtF7gs_MpCI/)
  * Gradient descent and the backpropagation algorithm [🎥](https://youtu.be/nTlCqaL7fCY) [🖥](https://drive.google.com/file/d/1tYPYGYFDQw5IBs9wx4egCcBTTX2h9d9g/)
@@ -39,7 +39,7 @@ Most of the lectures, labs, and notebooks are avalible in github and canvas
 * [Homework 1: backprop](https://drive.google.com/drive/folders/1g-uQNEi_NJyELGRMrJGXXxmARDabcXFd)
 
 
-### Module 2: Parameters sharing
+### Module 2: Health Information System / Digital Health
 
  * Recurrent and convolutional nets [🎥](https://youtu.be/7dU3TFBJl-0) [🖥](https://drive.google.com/file/d/1GtI4ywzI84oamyr_W5k_wzgfRN139aFD/) [📝](https://drive.google.com/file/d/12jP4ssUIoGURAU8jGj6QwKXyZVdXW0o6/)
  * ConvNets in practice [🎥](https://youtu.be/-wz_vADGbtE) [🖥](https://drive.google.com/file/d/1WX3HoZhekL4MVvi_7VuLRYJtBGnF9JJY/) [📝](https://drive.google.com/file/d/1ToWP7e71diAeMtQ0D9pU-f0BXF4bAg46/)
@@ -48,11 +48,12 @@ Most of the lectures, labs, and notebooks are avalible in github and canvas
  * [Homework 2: RNN & CNN](https://drive.google.com/drive/folders/1or1YiW0fFiZGEYy6b4EOEDgRPr0GQX0i)
 
 
-### module 3: Energy based models, foundations
+### module 3: Health Data Science
 
- * Energy based models (I) [🎥](https://youtu.be/xIn-Czj1g2Q) [🖥](https://drive.google.com/file/d/1kLUgZdRYFO5ksYHzbsRS8m8IocNiGu2J/)
- * Inference for LV-EBMs [🎥](https://youtu.be/xA_OPjRby5g) [🖥](https://github.com/Atcold/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf)
- * What are EBMs good for? [🎥](https://youtu.be/eJeJWWEo7cE)
- * Energy based models (II) [🎥](https://youtu.be/8u2s64ZtmiA) [🖥](https://drive.google.com/file/d/1czfiEE6IPqE7q1fTm-SWOiC3VNEtpNrj/) [📝](https://drive.google.com/file/d/1IB5dkcAQ6GsHEz8Eg2hjaeQeVtT2i4Z5/)
- * Training LV-EBMs [🎥](https://youtu.be/XIMaWj5YjOQ) [🖥](https://github.com/Atcold/NYU-DLSP20/blob/master/slides/12%20-%20EBM.pdf)
- * [Homework 3: structured prediction](https://drive.google.com/drive/folders/1zGy_SnMBqaoS7_dHRmKiOFtqNV1jJJb6)
+ * Introductin to Health Data Science Tools and Concepts
+ * Getting Data from real-world systems (open data, EHR/EMR Data, insurance claims etc.)
+ * Data Cleaning and Wrangling, Exploratory data analysis and Visualization 
+ * Recall - Statistical methods
+ * Machine Learning methods - 1
+ * Formulating Public Health Research or Questions
+ * Packaging the process as application or study paper. 

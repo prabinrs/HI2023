@@ -15,16 +15,10 @@ github:
   repo:              https://github.com/prabinrs/HI2023
 
 # Custom vars
-version:             hi2023
+version:             1.0.0
 
 src:                 "."
 default_theme:       "ayu"
-
-defaults:
-  - scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "custom"
 
 # For Maths
 markdown:            kramdown

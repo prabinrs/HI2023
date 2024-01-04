@@ -3,7 +3,7 @@ permalink:           pretty
 # Setup
 title:               'Health Informatics (Elective)'
 url:                 https://prabinrs.github.io/HI2023/
-baseurl:             'HI2023/docs'
+baseurl:             '/HI2023'
 homepage_title:      Home
 default_lang:        'en'
 
@@ -42,7 +42,10 @@ chapters:
     sections:
       - path: en/week01/01_01.md
       - path: en/week01/01_02.md
-      - path: en/week01/01_02.md
+      - path: en/week01/01_03.md
+      - path: en/week01/01_04.md
+      - path: en/week01/01_05.md
+      - path: en/week01/01_06.md
   - path: en/week02/02.md
   - path: en/week03/03.md
     sections:
